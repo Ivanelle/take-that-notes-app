@@ -8,4 +8,4 @@ const Note = ({ content }) => {
     );
 };
 
-export default Note;``
+export default Note;
